@@ -1,0 +1,2 @@
+export const fb_url = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1200px-Facebook_f_logo_%282019%29.svg.png";
+export const pic_url = "https://lh3.googleusercontent.com/a-/AOh14Gi_NQXdOV5K-KDvAiUfdecG9y4WBZ2QF_hydeFVZw";
